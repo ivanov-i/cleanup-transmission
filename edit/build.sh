@@ -1,1 +1,1 @@
-sudo docker build . --tag cleanup:editor
+sudo docker build .  --tag cleanup:editor
